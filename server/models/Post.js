@@ -20,7 +20,6 @@ const PostSchema = new mongoose.Schema(
     },
     slug: {
       type: String,
-      required: true,
       unique: true,
     },
     excerpt: {
@@ -30,12 +29,12 @@ const PostSchema = new mongoose.Schema(
     author: {
       type: mongoose.Schema.Types.ObjectId,
       ref: 'User',
-      required: true,
+      required: false,
     },
     category: {
       type: mongoose.Schema.Types.ObjectId,
       ref: 'Category',
-      required: true,
+      required: false,
     },
     tags: [String],
     isPublished: {
