@@ -188,6 +188,6 @@ This project is licensed under the **MIT License**.
 ## 👨‍💻 Author
 
 **Ngaukon [Joseph Ngaukon]**
-📧 [[your.email@example.com](mailto:josephlucia100@gmail.com)]
+📧 [[josephlucia100@gmail.com](mailto:josephlucia100@gmail.com)]
 
 ---
