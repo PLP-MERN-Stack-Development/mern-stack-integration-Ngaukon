@@ -142,9 +142,17 @@ npm run dev
 
 ---
 
-## 📁 Project Structure
+## 🖼️ Screenshots
 
-```
+### 🏠 Home Page
+![Home Page](./screenshots/mern1.png)
+
+### 📰 Create Page Detail
+![Post Detail](./screenshots/mern2.png)
+
+
+---
+
 mern-stack-integration-Ngaukon/
 │
 ├── client/                 # Frontend (React + Vite)
